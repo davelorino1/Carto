@@ -1,0 +1,4 @@
+
+
+
+`gcp-wow-ent-im-wowx-cust-prod.adp_wowx_dm_masterdata_view.dim_article_master_v` am  
